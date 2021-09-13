@@ -9,10 +9,13 @@ body {
   width: 700px;
   margin-left: 350px;
   font-size: 10pt;
+  background-image: url("fond d'écran.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 a:hover {
-  background-color: #c9e8bc;
+  background-image: #c9e8bc;
 }
 
 a:visited {
@@ -29,4 +32,20 @@ blockquote {
     margin-left: 200px;
     font-size: 16pt;
     background-color:#C4BEBC;
+    border-left: 3px dashed black;
+    padding-left: 30px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+q {
+    font-style: italic;
+    ;width: 300px;
+    margin-left: 200px;
+    font-size: 16pt;
+    background-color:#C4BEBC;
+    border-left: 3px dashed black;
+    padding-left: 30px;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
