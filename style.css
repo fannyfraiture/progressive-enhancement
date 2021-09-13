@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Kaisei+Tokumin:wght@400;500;800&display=swap");
+
+body {
+  font-family: "Kaisei Tokumin", serif;
+  padding: 2rem;
+  line-height: 1, 7rem;
+  letter-spacing: 1, 5mm;
+  color: #2d3329;
+  width: 700px;
+  margin-left: 350px;
+  font-size: 10pt;
+}
+
+a:hover {
+  background-color: #c9e8bc;
+}
+
+a:visited {
+  color: #6e8067;
+}
+
+a {
+  font-weight: bold;
+  text-shadow: 5px grey;
+}
+
+blockquote {
+    width: 300px;
+    margin-left: 200px;
+    font-size: 16pt;
+    background-color:#C4BEBC;
+}
