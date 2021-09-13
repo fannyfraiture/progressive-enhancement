@@ -32,7 +32,6 @@ blockquote {
     margin-left: 200px;
     font-size: 16pt;
     background-color:#C4BEBC;
-    border-left: 3px dashed black;
     padding-left: 30px;
     padding-top: 80px;
     padding-bottom: 80px;
@@ -40,12 +39,18 @@ blockquote {
 
 q {
     font-style: italic;
-    ;width: 300px;
-    margin-left: 200px;
-    font-size: 16pt;
-    background-color:#C4BEBC;
-    border-left: 3px dashed black;
-    padding-left: 30px;
-    padding-top: 80px;
-    padding-bottom: 80px;
+}
+
+.fermier {
+    border-left : 3px dashed #FFA366;
+}
+
+.villageois {
+    border-left: 3px dashed#7F6A81;
+}
+
+h1 {background-color: yellow;}
+
+[Good] {
+    
 }
