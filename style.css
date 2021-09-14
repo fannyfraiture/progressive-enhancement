@@ -51,6 +51,12 @@ q {
 
 h1 {background-color: yellow;}
 
-[Good] {
-    
+.good {
+    background-color: white;
+    color: green;
+}
+
+.bad {
+    background-color: grey;
+    color: red;
 }
