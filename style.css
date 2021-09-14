@@ -9,7 +9,7 @@ body {
   width: 700px;
   margin-left: 350px;
   font-size: 10pt;
-  background-image: url("fond d'écran.jpg");
+  background-image: url("./fonddecran.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
