@@ -1,7 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Kaisei+Tokumin:wght@400;500;800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;700&family=Open+Sans:ital,wght@0,300;0,400;1,300&display=swap');
 
 body {
-  font-family: "Kaisei Tokumin", serif;
+  font-family: 'Open Sans', sans-serif;
   padding: 2rem;
   line-height: 1, 7rem;
   letter-spacing: 1, 5mm;
@@ -59,4 +59,13 @@ h1 {background-color: yellow;}
 .bad {
     background-color: grey;
     color: red;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+img {
+    float: right;
+    height: 50%;
 }
